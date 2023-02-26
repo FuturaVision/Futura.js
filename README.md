@@ -71,7 +71,7 @@ Using unpkg CDN (ES5 UMD browser module):
 Using GitHub
 
 ```bash
- $ git clone https://github.com/BlakvGhost/FuturaJS.git
+ $ git clone https://github.com/FuturaVision/FuturaJS.git
 ```
 Add the script tag in your \<head><\/head>
 ```html
